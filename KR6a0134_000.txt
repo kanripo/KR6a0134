@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 佛說食施獲五福報經
+#+DATE: 2015-08-30 19:32:38.722576
+#+PROPERTY: JUAN 0
